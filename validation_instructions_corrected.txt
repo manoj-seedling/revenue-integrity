@@ -1,0 +1,108 @@
+================================================================================
+MANAGER VALIDATION WORKFLOW - INSTRUCTIONS
+Revenue Decision Integrity - Phase 2 Validation
+================================================================================
+
+PURPOSE
+You are reviewing 13 claims extracted from 12 synthetic Salesforce opportunities.
+Your feedback will help us evaluate:
+1. Claim Detection Correctness
+2. Evidence Policy Appropriateness
+3. Proposed State Correctness
+4. Business Usefulness
+
+You are not confirming what actually happened in a commercial deal. You are
+evaluating whether the system's interpretation and classification follow the
+evidence policy and whether the output is operationally useful.
+
+THE FOUR REVIEW QUESTIONS
+
+1. CLAIM DETECTION CORRECT
+   Options: YES / NO / PARTIAL
+   YES: The claim was correctly extracted from the note.
+   NO: The claim was incorrectly extracted, has the wrong type, or is absent.
+   PARTIAL: The extraction is partly correct but needs adjustment.
+
+2. EVIDENCE POLICY APPROPRIATE
+   Options: YES / NO / CANNOT_DETERMINE
+   YES: The evidence required for this claim type is appropriate.
+   NO: The evidence policy is too narrow or inappropriate for this claim type.
+   CANNOT_DETERMINE: There is not enough context to judge.
+
+3. PROPOSED STATE CORRECT
+   Options: YES / NO / CANNOT_DETERMINE
+   YES: The proposed state correctly follows the configured policy.
+   NO: The state should be different given the evidence.
+   CANNOT_DETERMINE: There is not enough context to judge.
+
+4. BUSINESS USEFUL
+   Options: YES / NO / UNSURE
+   YES: This exception would be useful in a forecast review.
+   NO: This exception would not be actionable.
+   UNSURE: You are unsure about its usefulness.
+
+SYSTEM DECISION STATES
+
+SUPPORTED: Available CRM evidence satisfies the configured requirement.
+UNSUPPORTED: A claim exists but required supporting evidence is absent.
+CONTRADICTED: Available evidence actively conflicts with the claim.
+NOT_VERIFIABLE: The configured data cannot test the claim reliably.
+
+REASON CODES
+Choose one if any question is answered NO or PARTIAL:
+
+CLAIM_NOT_PRESENT: The claim does not exist in the source text.
+WRONG_CLAIM_TYPE: The claim exists but has the wrong type.
+EVIDENCE_NOT_CAPTURED: Evidence exists but was not captured by the policy.
+EVIDENCE_RULE_INCORRECT: The evidence rule is wrong or incomplete.
+WRONG_DECISION_STATE: The classification does not follow the policy.
+INSUFFICIENT_CONTEXT: There is not enough information to evaluate.
+VALID_BUT_NOT_ACTIONABLE: The result is correct but not useful in practice.
+OTHER: Another reason; explain it in Reviewer_Notes.
+
+HOW TO RECORD YOUR REVIEW
+
+For each assigned row in reviews.csv, complete:
+- Review_Date: YYYY-MM-DD
+- Claim_Detection_Correct: YES / NO / PARTIAL
+- Evidence_Policy_Appropriate: YES / NO / CANNOT_DETERMINE
+- Proposed_State_Correct: YES / NO / CANNOT_DETERMINE
+- Corrected_Claim_Type: only when correction is needed
+- Corrected_State: SUPPORTED / UNSUPPORTED / CONTRADICTED / NOT_VERIFIABLE
+- Business_Useful: YES / NO / UNSURE
+- Primary_Reason_Code: required when an issue is identified
+- Reviewer_Notes: brief explanation, normally 2-3 sentences
+- Reviewer_Confidence: 1-5, where 1 is low and 5 is high
+
+EXAMPLE REVIEW
+
+Claim_ID: C005-CL01
+Source: "Strong momentum. Champion is engaged."
+Extracted Claim Type: deal_momentum
+Proposed State: UNSUPPORTED
+
+Review_Date: 2026-08-16
+Claim_Detection_Correct: YES
+Evidence_Policy_Appropriate: YES
+Proposed_State_Correct: YES
+Corrected_Claim_Type: blank
+Corrected_State: blank
+Business_Useful: YES
+Primary_Reason_Code: blank
+Reviewer_Notes: "The claim is correctly extracted. The note indicates positive momentum."
+Reviewer_Confidence: 5
+
+IMPORTANT NOTES
+
+1. This does not measure real-world precision. It measures reviewer acceptance
+   under synthetic evaluation scenarios.
+2. All proposed states are UNSUPPORTED because the records show missing
+   supporting evidence, not actively opposing evidence.
+3. Each claim is reviewed separately. Some opportunities have multiple claims.
+4. Complete the review within 48 hours. Estimated time: 2-3 minutes per claim.
+5. Reviewers must work independently and must not share answers until both
+   reviews are submitted.
+
+================================================================================
+END OF INSTRUCTIONS
+================================================================================

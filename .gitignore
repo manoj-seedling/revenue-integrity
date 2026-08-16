@@ -1,0 +1,12 @@
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Local files
+v2_results_summary.txt
+*.log
+.DS_Store

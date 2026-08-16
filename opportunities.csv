@@ -1,0 +1,121 @@
+﻿Sno,Id,Name,Amount,StageName,CloseDate,Description,CreatedDate
+1,006f6000009YkCvAAK,Acme Corp Implementation 001,10173,Prospecting,1/12/2026,Champion is engaged. Working through legal review.,2026-08-15T10:04:31.000Z
+2,006f6000009YkCwAAK,GlobalTech Solutions Cloud Integration 002,18092,Prospecting,2/18/2026,Competitor is also in negotiation.,2026-08-15T10:04:31.000Z
+3,006f6000009YkCxAAK,MegaCorp Holdings Hybrid Cloud Solution 003,26011,Prospecting,3/27/2026,Procurement process started. Vendor qualification complete.,2026-08-15T10:04:31.000Z
+4,006f6000009YkCyAAK,DataFlow Systems Enterprise License 004,33930,Prospecting,5/3/2026,Client wants to close by end of quarter.,2026-08-15T10:04:31.000Z
+5,006f6000009YkCzAAK,SecureNet Solutions Security Assessment 005,41849,Prospecting,6/9/2026,Contract redlines being reviewed by legal.,2026-08-15T10:04:31.000Z
+6,006f6000009YkD0AAK,Apex Technologies Cybersecurity Framework 006,49768,Prospecting,7/16/2026,Senior leadership approved. Next step: Contract negotiation.,2026-08-15T10:04:31.000Z
+7,006f6000009YkD1AAK,Cloud Innovations Platform Migration 007,17686,Prospecting,8/22/2026,Deal value increased with additional services.,2026-08-15T10:04:31.000Z
+8,006f6000009YkD2AAK,BrightWave Media Data Analytics 008,25605,Prospecting,9/28/2026,Close date moved due to procurement delays.,2026-08-15T10:04:31.000Z
+9,006f6000009YkD3AAK,Nexus Solutions Business Intelligence 009,33524,Prospecting,11/4/2026,Budget is approved. Awaiting final signature.,2026-08-15T10:04:31.000Z
+10,006f6000009YkD4AAK,Quantum Technologies Annual Subscription 010,41443,Prospecting,12/11/2026,Need to re-engage. No activity in 30 days.,2026-08-15T10:04:31.000Z
+11,006f6000009YkD5AAK,Edge Dynamics Digital Transformation 011,49362,Prospecting,1/17/2027,Executive sponsor is on board.,2026-08-15T10:04:31.000Z
+12,006f6000009YkD6AAK,Frontline Systems Automation Initiative 012,17280,Prospecting,2/23/2027,Procurement team is conducting vendor assessment.,2026-08-15T10:04:31.000Z
+13,006f6000009YkD7AAK,Horizon Technologies Managed Services 013,25199,Qualification,4/1/2027,Deal is moving to legal review phase.,2026-08-15T10:04:31.000Z
+14,006f6000009YkD8AAK,Summit Financial Compliance Audit 014,33118,Qualification,5/8/2027,Competitor dropped out. Strong position.,2026-08-15T10:04:31.000Z
+15,006f6000009YkD9AAK,Capital Partners CRM Optimization 015,41037,Qualification,6/14/2027,Deal involves 5 decision makers.,2026-08-15T10:04:31.000Z
+16,006f6000009YkDAAA0,Strategic Advisory Professional Services 016,48956,Qualification,7/21/2027,Legal review in progress. Redlines exchanged.,2026-08-15T10:04:31.000Z
+17,006f6000009YkDBAA0,Vertex Consulting Infrastructure Modernization 017,16874,Qualification,8/27/2027,Deal is warm. Champion committed.,2026-08-15T10:04:31.000Z
+18,006f6000009YkDCAA0,Pinnacle Group ERP Upgrade 018,24793,Qualification,10/3/2027,Technical evaluation complete. Positive feedback.,2026-08-15T10:04:31.000Z
+19,006f6000009YkDDAA0,Avance Solutions Software Deployment 019,50174,Qualification,11/9/2027,Deal is on hold. Waiting for internal approval.,2026-08-15T10:04:31.000Z
+20,006f6000009YkDEAA0,HealthFirst Application Development 020,58093,Qualification,12/16/2027,Client has agreed to timeline. Working on SOW.,2026-08-15T10:04:31.000Z
+21,006f6000009YkDFAA0,MedTech International Implementation 021,66012,Qualification,1/22/2026,Champion is engaged. Working through legal review.,2026-08-15T10:04:31.000Z
+22,006f6000009YkDGAA0,CareStream Cloud Integration 022,73931,Qualification,2/28/2026,Competitor is also in negotiation.,2026-08-15T10:04:31.000Z
+23,006f6000009YkDHAA0,Genuine Health Hybrid Cloud Solution 023,81850,Qualification,4/6/2026,Procurement process started. Vendor qualification complete.,2026-08-15T10:04:31.000Z
+24,006f6000009YkDIAA0,Vitality Systems Enterprise License 024,89769,Qualification,5/13/2026,Client wants to close by end of quarter.,2026-08-15T10:04:31.000Z
+25,006f6000009YkDJAA0,Precision Care Security Assessment 025,97688,Qualification,6/19/2026,Contract redlines being reviewed by legal.,2026-08-15T10:04:31.000Z
+26,006f6000009YkDKAA0,Industrial Solutions Cybersecurity Framework 026,55607,Qualification,7/26/2026,Senior leadership approved. Next step: Contract negotiation.,2026-08-15T10:04:31.000Z
+27,006f6000009YkDLAA0,Advanced Materials Platform Migration 027,63526,Qualification,9/1/2026,Deal value increased with additional services.,2026-08-15T10:04:31.000Z
+28,006f6000009YkDMAA0,Rigid Manufacturing Data Analytics 028,71445,Qualification,10/8/2026,Close date moved due to procurement delays.,2026-08-15T10:04:31.000Z
+29,006f6000009YkDNAA0,Prime Industries Business Intelligence 029,79364,Qualification,11/14/2026,Budget is approved. Awaiting final signature.,2026-08-15T10:04:31.000Z
+30,006f6000009YkDOAA0,Fusion Technologies Annual Subscription 030,87283,Qualification,12/21/2026,Need to re-engage. No activity in 30 days.,2026-08-15T10:04:31.000Z
+31,006f6000009YkDPAA0,SteelFab Digital Transformation 031,95202,Needs Analysis,1/27/2027,Executive sponsor is on board.,2026-08-15T10:04:31.000Z
+32,006f6000009YkDQAA0,Vertex Retail Automation Initiative 032,53121,Needs Analysis,3/5/2027,Procurement team is conducting vendor assessment.,2026-08-15T10:04:31.000Z
+33,006f6000009YkDRAA0,MarketSphere Managed Services 033,61040,Needs Analysis,4/11/2027,Deal is moving to legal review phase.,2026-08-15T10:04:31.000Z
+34,006f6000009YkDSAA0,BrandLogic Compliance Audit 034,68959,Needs Analysis,5/18/2027,Competitor dropped out. Strong position.,2026-08-15T10:04:31.000Z
+35,006f6000009YkDTAA0,Consumer Direct CRM Optimization 035,76878,Needs Analysis,6/24/2027,Deal involves 5 decision makers.,2026-08-15T10:04:31.000Z
+36,006f6000009YkDUAA0,Premium Brands Professional Services 036,84797,Needs Analysis,7/31/2027,Legal review in progress. Redlines exchanged.,2026-08-15T10:04:31.000Z
+37,006f6000009YkDVAA0,Element Products Infrastructure Modernization 037,92716,Needs Analysis,9/6/2027,Deal is warm. Champion committed.,2026-08-15T10:04:31.000Z
+38,006f6000009YkDWAA0,BlueSky Services ERP Upgrade 038,50635,Needs Analysis,10/13/2027,Technical evaluation complete. Positive feedback.,2026-08-15T10:04:31.000Z
+39,006f6000009YkDXAA0,Horizon Solutions Software Deployment 039,58554,Needs Analysis,11/19/2027,Deal is on hold. Waiting for internal approval.,2026-08-15T10:04:31.000Z
+40,006f6000009YkDYAA0,Elevate Consulting Application Development 040,66473,Needs Analysis,12/26/2027,Client has agreed to timeline. Working on SOW.,2026-08-15T10:04:31.000Z
+41,006f6000009YkDZAA0,Nexus Advisory Implementation 041,74392,Needs Analysis,2/1/2026,Champion is engaged. Working through legal review.,2026-08-15T10:04:31.000Z
+42,006f6000009YkDaAAK,Silverline Partners Cloud Integration 042,82311,Needs Analysis,3/10/2026,Competitor is also in negotiation.,2026-08-15T10:04:31.000Z
+43,006f6000009YkDbAAK,Stratos Group Hybrid Cloud Solution 043,100174,Needs Analysis,4/16/2026,Procurement process started. Vendor qualification complete.,2026-08-15T10:04:31.000Z
+44,006f6000009YkDcAAK,Apex Dynamics Enterprise License 044,108093,Needs Analysis,5/23/2026,Client wants to close by end of quarter.,2026-08-15T10:04:31.000Z
+45,006f6000009YkDdAAK,Core Systems Security Assessment 045,116012,Needs Analysis,6/29/2026,Contract redlines being reviewed by legal.,2026-08-15T10:04:31.000Z
+46,006f6000009YkDeAAK,Zenith Technologies Cybersecurity Framework 046,123931,Needs Analysis,8/5/2026,Senior leadership approved. Next step: Contract negotiation.,2026-08-15T10:04:31.000Z
+47,006f6000009YkDfAAK,Pulse Health Platform Migration 047,131850,Needs Analysis,9/11/2026,Deal value increased with additional services.,2026-08-15T10:04:31.000Z
+48,006f6000009YkDgAAK,StoneBridge Group Data Analytics 048,139769,Needs Analysis,10/18/2026,Close date moved due to procurement delays.,2026-08-15T10:04:31.000Z
+49,006f6000009YkDhAAK,Pathway Solutions Business Intelligence 049,147688,Needs Analysis,11/24/2026,Budget is approved. Awaiting final signature.,2026-08-15T10:04:31.000Z
+50,006f6000009YkDiAAK,Elevation Partners Annual Subscription 050,155607,Needs Analysis,12/31/2026,Need to re-engage. No activity in 30 days.,2026-08-15T10:04:31.000Z
+51,006f6000009YkDjAAK,Acme Corp Digital Transformation 051,163526,Needs Analysis,2/6/2027,Executive sponsor is on board.,2026-08-15T10:04:31.000Z
+52,006f6000009YkDkAAK,GlobalTech Solutions Automation Initiative 052,171445,Needs Analysis,3/15/2027,Procurement team is conducting vendor assessment.,2026-08-15T10:04:31.000Z
+53,006f6000009YkDlAAK,MegaCorp Holdings Managed Services 053,179364,Needs Analysis,4/21/2027,Deal is moving to legal review phase.,2026-08-15T10:04:31.000Z
+54,006f6000009YkDmAAK,DataFlow Systems Compliance Audit 054,187283,Needs Analysis,5/28/2027,Competitor dropped out. Strong position.,2026-08-15T10:04:31.000Z
+55,006f6000009YkDnAAK,SecureNet Solutions CRM Optimization 055,195202,Value Proposition,7/4/2027,Deal involves 5 decision makers.,2026-08-15T10:04:31.000Z
+56,006f6000009YkDoAAK,Apex Technologies Professional Services 056,203121,Value Proposition,8/10/2027,Legal review in progress. Redlines exchanged.,2026-08-15T10:04:31.000Z
+57,006f6000009YkDpAAK,Cloud Innovations Infrastructure Modernization 057,211040,Value Proposition,9/16/2027,Deal is warm. Champion committed.,2026-08-15T10:04:31.000Z
+58,006f6000009YkDqAAK,BrightWave Media ERP Upgrade 058,218959,Value Proposition,10/23/2027,Technical evaluation complete. Positive feedback.,2026-08-15T10:04:31.000Z
+59,006f6000009YkDrAAK,Nexus Solutions Software Deployment 059,226878,Value Proposition,11/29/2027,Deal is on hold. Waiting for internal approval.,2026-08-15T10:04:31.000Z
+60,006f6000009YkDsAAK,Quantum Technologies Application Development 060,234797,Value Proposition,1/5/2026,Client has agreed to timeline. Working on SOW.,2026-08-15T10:04:31.000Z
+61,006f6000009YkDtAAK,Edge Dynamics Implementation 061,242716,Value Proposition,2/11/2026,Champion is engaged. Working through legal review.,2026-08-15T10:04:31.000Z
+62,006f6000009YkDuAAK,Frontline Systems Cloud Integration 062,100635,Value Proposition,3/20/2026,Competitor is also in negotiation.,2026-08-15T10:04:31.000Z
+63,006f6000009YkDvAAK,Horizon Technologies Hybrid Cloud Solution 063,108554,Value Proposition,4/26/2026,Procurement process started. Vendor qualification complete.,2026-08-15T10:04:31.000Z
+64,006f6000009YkDwAAK,Summit Financial Enterprise License 064,116473,Value Proposition,6/2/2026,Client wants to close by end of quarter.,2026-08-15T10:04:31.000Z
+65,006f6000009YkDxAAK,Capital Partners Security Assessment 065,124392,Value Proposition,7/9/2026,Contract redlines being reviewed by legal.,2026-08-15T10:04:31.000Z
+66,006f6000009YkDyAAK,Strategic Advisory Cybersecurity Framework 066,132311,Value Proposition,8/15/2026,Senior leadership approved. Next step: Contract negotiation.,2026-08-15T10:04:31.000Z
+67,006f6000009YkDzAAK,Vertex Consulting Platform Migration 067,140230,Value Proposition,9/21/2026,Deal value increased with additional services.,2026-08-15T10:04:31.000Z
+68,006f6000009YkE0AAK,Pinnacle Group Data Analytics 068,148149,Value Proposition,10/28/2026,Close date moved due to procurement delays.,2026-08-15T10:04:31.000Z
+69,006f6000009YkE1AAK,Avance Solutions Business Intelligence 069,156068,Value Proposition,12/4/2026,Budget is approved. Awaiting final signature.,2026-08-15T10:04:31.000Z
+70,006f6000009YkE2AAK,HealthFirst Annual Subscription 070,163987,Value Proposition,1/10/2027,Need to re-engage. No activity in 30 days.,2026-08-15T10:04:31.000Z
+71,006f6000009YkE3AAK,MedTech International Digital Transformation 071,171906,Value Proposition,2/16/2027,Executive sponsor is on board.,2026-08-15T10:04:31.000Z
+72,006f6000009YkE4AAK,CareStream Automation Initiative 072,179825,Value Proposition,3/25/2027,Procurement team is conducting vendor assessment.,2026-08-15T10:04:31.000Z
+73,006f6000009YkE5AAK,Genuine Health Managed Services 073,250174,Id. Decision Makers,5/1/2027,Deal is moving to legal review phase.,2026-08-15T10:04:31.000Z
+74,006f6000009YkE6AAK,Vitality Systems Compliance Audit 074,258093,Id. Decision Makers,6/7/2027,Competitor dropped out. Strong position.,2026-08-15T10:04:31.000Z
+75,006f6000009YkE7AAK,Precision Care CRM Optimization 075,266012,Id. Decision Makers,7/14/2027,Deal involves 5 decision makers.,2026-08-15T10:04:31.000Z
+76,006f6000009YkE8AAK,Industrial Solutions Professional Services 076,273931,Id. Decision Makers,8/20/2027,Legal review in progress. Redlines exchanged.,2026-08-15T10:04:31.000Z
+77,006f6000009YkE9AAK,Advanced Materials Infrastructure Modernization 077,281850,Id. Decision Makers,9/26/2027,Deal is warm. Champion committed.,2026-08-15T10:04:31.000Z
+78,006f6000009YkEAAA0,Rigid Manufacturing ERP Upgrade 078,289769,Id. Decision Makers,11/2/2027,Technical evaluation complete. Positive feedback.,2026-08-15T10:04:31.000Z
+79,006f6000009YkEBAA0,Prime Industries Software Deployment 079,297688,Id. Decision Makers,12/9/2027,Deal is on hold. Waiting for internal approval.,2026-08-15T10:04:31.000Z
+80,006f6000009YkECAA0,Fusion Technologies Application Development 080,305607,Id. Decision Makers,1/15/2026,Client has agreed to timeline. Working on SOW.,2026-08-15T10:04:31.000Z
+81,006f6000009YkEDAA0,SteelFab Implementation 081,313526,Id. Decision Makers,2/21/2026,Champion is engaged. Working through legal review.,2026-08-15T10:04:31.000Z
+82,006f6000009YkEEAA0,Vertex Retail Cloud Integration 082,321445,Id. Decision Makers,3/30/2026,Competitor is also in negotiation.,2026-08-15T10:04:31.000Z
+83,006f6000009YkEFAA0,MarketSphere Hybrid Cloud Solution 083,329364,Id. Decision Makers,5/6/2026,Procurement process started. Vendor qualification complete.,2026-08-15T10:04:31.000Z
+84,006f6000009YkEGAA0,BrandLogic Enterprise License 084,337283,Id. Decision Makers,6/12/2026,Client wants to close by end of quarter.,2026-08-15T10:04:31.000Z
+85,006f6000009YkEHAA0,Consumer Direct Security Assessment 085,345202,Perception Analysis,7/19/2026,Contract redlines being reviewed by legal.,2026-08-15T10:04:31.000Z
+86,006f6000009YkEIAA0,Premium Brands Cybersecurity Framework 086,353121,Perception Analysis,8/25/2026,Senior leadership approved. Next step: Contract negotiation.,2026-08-15T10:04:31.000Z
+87,006f6000009YkEJAA0,Element Products Platform Migration 087,361040,Perception Analysis,10/1/2026,Deal value increased with additional services.,2026-08-15T10:04:31.000Z
+88,006f6000009YkEKAA0,BlueSky Services Data Analytics 088,368959,Perception Analysis,11/7/2026,Close date moved due to procurement delays.,2026-08-15T10:04:31.000Z
+89,006f6000009YkELAA0,Horizon Solutions Business Intelligence 089,376878,Perception Analysis,12/14/2026,Budget is approved. Awaiting final signature.,2026-08-15T10:04:31.000Z
+90,006f6000009YkEMAA0,Elevate Consulting Annual Subscription 090,384797,Perception Analysis,1/20/2027,Need to re-engage. No activity in 30 days.,2026-08-15T10:04:31.000Z
+91,006f6000009YkENAA0,Nexus Advisory Digital Transformation 091,392716,Proposal/Price Quote,2/26/2027,Executive sponsor is on board.,2026-08-15T10:04:31.000Z
+92,006f6000009YkEOAA0,Silverline Partners Automation Initiative 092,400635,Proposal/Price Quote,4/4/2027,Procurement team is conducting vendor assessment.,2026-08-15T10:04:31.000Z
+93,006f6000009YkEPAA0,Stratos Group Managed Services 093,408554,Proposal/Price Quote,5/11/2027,Deal is moving to legal review phase.,2026-08-15T10:04:31.000Z
+94,006f6000009YkEQAA0,Apex Dynamics Compliance Audit 094,416473,Proposal/Price Quote,6/17/2027,Competitor dropped out. Strong position.,2026-08-15T10:04:31.000Z
+95,006f6000009YkERAA0,Core Systems CRM Optimization 095,424392,Proposal/Price Quote,7/24/2027,Deal involves 5 decision makers.,2026-08-15T10:04:31.000Z
+96,006f6000009YkESAA0,Zenith Technologies Professional Services 096,432311,Proposal/Price Quote,8/30/2027,Legal review in progress. Redlines exchanged.,2026-08-15T10:04:31.000Z
+97,006f6000009YkETAA0,Pulse Health Infrastructure Modernization 097,500174,Proposal/Price Quote,10/6/2027,Deal is warm. Champion committed.,2026-08-15T10:04:31.000Z
+98,006f6000009YkEUAA0,StoneBridge Group ERP Upgrade 098,508093,Proposal/Price Quote,11/12/2027,Technical evaluation complete. Positive feedback.,2026-08-15T10:04:31.000Z
+99,006f6000009YkEVAA0,Pathway Solutions Software Deployment 099,516012,Proposal/Price Quote,12/19/2027,Deal is on hold. Waiting for internal approval.,2026-08-15T10:04:31.000Z
+100,006f6000009YkEWAA0,Elevation Partners Application Development 100,523931,Proposal/Price Quote,1/25/2026,Client has agreed to timeline. Working on SOW.,2026-08-15T10:04:31.000Z
+101,006f6000009YkEXAA0,Acme Corp Implementation 101,531850,Proposal/Price Quote,3/3/2026,Champion is engaged. Working through legal review.,2026-08-15T10:04:31.000Z
+102,006f6000009YkEYAA0,GlobalTech Solutions Cloud Integration 102,539769,Proposal/Price Quote,4/9/2026,Competitor is also in negotiation.,2026-08-15T10:04:31.000Z
+103,006f6000009YkEZAA0,MegaCorp Holdings Hybrid Cloud Solution 103,547688,Negotiation/Review,5/16/2026,Procurement process started. Vendor qualification complete.,2026-08-15T10:04:31.000Z
+104,006f6000009YkEaAAK,DataFlow Systems Enterprise License 104,555607,Negotiation/Review,6/22/2026,Client wants to close by end of quarter.,2026-08-15T10:04:31.000Z
+105,006f6000009YkEbAAK,SecureNet Solutions Security Assessment 105,563526,Negotiation/Review,7/29/2026,Contract redlines being reviewed by legal.,2026-08-15T10:04:31.000Z
+106,006f6000009YkEcAAK,Apex Technologies Cybersecurity Framework 106,571445,Negotiation/Review,9/4/2026,Senior leadership approved. Next step: Contract negotiation.,2026-08-15T10:04:31.000Z
+107,006f6000009YkEdAAK,Cloud Innovations Platform Migration 107,579364,Negotiation/Review,10/11/2026,Deal value increased with additional services.,2026-08-15T10:04:31.000Z
+108,006f6000009YkEeAAK,BrightWave Media Data Analytics 108,587283,Negotiation/Review,11/17/2026,Close date moved due to procurement delays.,2026-08-15T10:04:31.000Z
+109,006f6000009YkEfAAK,Nexus Solutions Business Intelligence 109,595202,Negotiation/Review,12/24/2026,Budget is approved. Awaiting final signature.,2026-08-15T10:04:31.000Z
+110,006f6000009YkEgAAK,Quantum Technologies Annual Subscription 110,603121,Negotiation/Review,1/30/2027,Need to re-engage. No activity in 30 days.,2026-08-15T10:04:31.000Z
+111,006f6000009YkEhAAK,Edge Dynamics Digital Transformation 111,1000174,Negotiation/Review,3/8/2027,Executive sponsor is on board.,2026-08-15T10:04:31.000Z
+112,006f6000009YkEiAAK,Frontline Systems Automation Initiative 112,1008093,Negotiation/Review,4/14/2027,Procurement team is conducting vendor assessment.,2026-08-15T10:04:31.000Z
+113,006f6000009YkEjAAK,Horizon Technologies Managed Services 113,1016012,Negotiation/Review,5/21/2027,Deal is moving to legal review phase.,2026-08-15T10:04:31.000Z
+114,006f6000009YkEkAAK,Summit Financial Compliance Audit 114,1023931,Negotiation/Review,6/27/2027,Competitor dropped out. Strong position.,2026-08-15T10:04:31.000Z
+115,006f6000009YkElAAK,Capital Partners CRM Optimization 115,1031850,Closed Won,8/3/2027,Deal involves 5 decision makers.,2026-08-15T10:04:31.000Z
+116,006f6000009YkEmAAK,Strategic Advisory Professional Services 116,1039769,Closed Won,9/9/2027,Legal review in progress. Redlines exchanged.,2026-08-15T10:04:31.000Z
+117,006f6000009YkEnAAK,Vertex Consulting Infrastructure Modernization 117,1047688,Closed Won,10/16/2027,Deal is warm. Champion committed.,2026-08-15T10:04:31.000Z
+118,006f6000009YkEoAAK,Pinnacle Group ERP Upgrade 118,1055607,Closed Won,11/22/2027,Technical evaluation complete. Positive feedback.,2026-08-15T10:04:31.000Z
+119,006f6000009YkEpAAK,Avance Solutions Software Deployment 119,1063526,Closed Lost,12/29/2027,Deal is on hold. Waiting for internal approval.,2026-08-15T10:04:31.000Z
+120,006f6000009YkEqAAK,HealthFirst Application Development 120,1071445,Closed Lost,2/4/2026,Client has agreed to timeline. Working on SOW.,2026-08-15T10:04:31.000Z
