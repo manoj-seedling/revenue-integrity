@@ -233,7 +233,7 @@ MIT License — feel free to use, modify, and distribute.
 
 **Manojkumar Nithyanantham**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/manojkumar-partner-enabler-caretaker/)
 
 ---
 
